@@ -4,7 +4,7 @@
 A self-taught frontend developer based in Atlanta, GA passionate about building responsive and user-friendly web apps.
 
 ## 🌐 Live Demo
-[Visit My Portfolio](https://your-live-link.com)
+[Visit My Portfolio](https://fikir.me)
 
 ## 🛠️ Technologies Used
 - HTML, CSS, JavaScript
