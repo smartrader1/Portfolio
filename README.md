@@ -1,19 +1,23 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Fikir Ademe Portfolio
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## 🚀 About Me
+A self-taught frontend developer based in Atlanta, GA passionate about building responsive and user-friendly web apps.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🌐 Live Demo
+[Visit My Portfolio](https://your-live-link.com)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🛠️ Technologies Used
+- HTML, CSS, JavaScript
+- React (learning)
+- TypeScript (learning)
+- Tailwind CSS
+- Git & GitHub
+- Figma
 
-Happy Coding!
+## 📁 Projects Featured
+- **Mywatchlist**: Movie watchlist app using the OMDB API
+- **Colortopia**: Color scheme generator using the Color API
+- **Z**: A simple frontend clone of Twitter/X
+
+## 📬 Contact
+Feel free to reach out via email at fikiryademe@gmail.com
